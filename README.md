@@ -58,6 +58,8 @@ Endpoint paths follow a pattern matching the type of data provided
 |*/info	| Metadata |	Cryptocurrency and exchange metadata like block explorer URLs and logos.|
 |*/map	| ID Maps |	Utility endpoints to get a map of resources to CoinMarketCap IDs.|
 
+# Note :![tenor](https://user-images.githubusercontent.com/26450952/116926194-1a9b8080-ac28-11eb-9391-78166dfc853f.gif)
+
 # Changing the API Call
 ```
  #This example uses Python 2.7 and the python-request library.
