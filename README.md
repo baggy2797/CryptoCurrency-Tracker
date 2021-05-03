@@ -82,6 +82,18 @@ try:
 except (ConnectionError, Timeout, TooManyRedirects) as e:
   print(e)
 ```
+
+Herein, just change the headers by putting in the API key you generate for your account from https://pro.coinmarketcap.com/login
+
+Update the header as :
+
+```
+headers = {
+  'Accepts': 'application/json',
+  'X-CMC_PRO_API_KEY': 'ENTER-YOUR-NEWLY-GENERATED-API-KEY-HERE',
+}
+```
+
 # Projects
 
 
