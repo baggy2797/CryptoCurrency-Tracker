@@ -15,7 +15,7 @@
 🔵 locale ✅
 🔵 xlsxwriter ✅
 
-🌎🌎🌎 API link https://coinmarketcap.com/ 🌎🌎🌎
+🌎🌎🌎 API link :  https://coinmarketcap.com/api/ 🌎🌎🌎
 ```
 
 # Synopsis
