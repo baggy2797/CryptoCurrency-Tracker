@@ -1,4 +1,7 @@
 # CryptoCurrency-Tracker
+
+<img align ="center" src ="https://user-images.githubusercontent.com/26450952/116924701-3bfb6d00-ac26-11eb-91ed-e4a40b0644a8.gif" >
+
 ```
 5 real world applications, by using The 🐍Python 3.8.2✅ and the 💰CoinMarketCap.com API✅
 
