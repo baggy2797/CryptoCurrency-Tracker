@@ -20,6 +20,8 @@
 
 🌎🌎🌎 API link :  https://coinmarketcap.com/api/ 🌎🌎🌎
 ```
+<img src="https://img.shields.io/badge/BTC-Bitcoin-brightgreen"><img src="https://img.shields.io/badge/ETH-Ethereum-red"><img src="https://img.shields.io/badge/BNB-Binance%20Coin-orange"><img src="https://img.shields.io/badge/XRP-XRP-lightgrey"><img src="https://img.shields.io/badge/DOGE-DogeCoin-yellow"><img src="https://img.shields.io/badge/USDT-Tether-yellowgreen"><img src="https://img.shields.io/badge/LTC-LiteCoin-green"><img src="https://img.shields.io/badge/other-other-blue">
+
 
 # Synopsis
 This repository contains the files and codes upon following udemy course [Python and Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/coinmarketcap/).
