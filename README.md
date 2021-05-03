@@ -31,6 +31,28 @@ CoinMarketCap API are publicly accesible as url endpoints. The API endpoints we 
 
 These endpoints are updated every 5 minutes and are restricted to no more than 30 requests per minute. Click [here](https://coinmarketcap.com/api/) for respective API usage details.
 
+# EndPoint Overview
+Endpoint Category | Description |
+--- | --- | 
+| /cryptocurrency/*	| Endpoints that return data around cryptocurrencies such as ordered cryptocurrency lists or price and volume data.|
+| /exchange/* |	Endpoints that return data around cryptocurrency exchanges such as ordered exchange lists and market pair data.|
+| /global-metrics/* |	Endpoints that return aggregate market data such as global market cap and BTC dominance.|
+| /tools/*	| Useful utilities such as cryptocurrency and fiat price conversions.|
+| /blockchain/*	| Endpoints that return block explorer related data for blockchains.|
+| /fiat/*|	Endpoints that return data around fiats currencies including mapping to CMC IDs.|
+|/partners/*	| Endpoints for convenient access to 3rd party crypto data.|
+|/key/* |	API key administration endpoints to review and manage your usage.|
+
+
+Endpoint paths follow a pattern matching the type of data provided
+
+|Endpoint Path	| Endpoint Type |	Description |
+--- | --- | --- |
+|*/latest	| Latest Market Data |	Latest market ticker quotes and averages for cryptocurrencies and exchanges.|
+|*/historical	| Historical Market Data	|Intervals of historic market data like OHLCV data or data for use in charting libraries.|
+|*/info	| Metadata |	Cryptocurrency and exchange metadata like block explorer URLs and logos.|
+|*/map	| ID Maps |	Utility endpoints to get a map of resources to CoinMarketCap IDs.|
+
 # Changing the API Call
 ```
  #This example uses Python 2.7 and the python-request library.
