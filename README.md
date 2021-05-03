@@ -20,7 +20,7 @@
 
 🌎🌎🌎 API link :  https://coinmarketcap.com/api/ 🌎🌎🌎
 ```
-<img src="https://img.shields.io/badge/BTC-Bitcoin-brightgreen"><img src="https://img.shields.io/badge/ETH-Ethereum-red"><img src="https://img.shields.io/badge/BNB-Binance%20Coin-orange"><img src="https://img.shields.io/badge/XRP-XRP-lightgrey"><img src="https://img.shields.io/badge/DOGE-DogeCoin-yellow"><img src="https://img.shields.io/badge/USDT-Tether-yellowgreen"><img src="https://img.shields.io/badge/LTC-LiteCoin-green"><img src="https://img.shields.io/badge/other-other-blue">
+<img src="https://img.shields.io/badge/BTC-Bitcoin-brightgreen?link=https://coinmarketcap.com/"><img src="https://img.shields.io/badge/ETH-Ethereum-red?link=https://coinmarketcap.com/"><img src="https://img.shields.io/badge/BNB-Binance%20Coin-orange?link=https://coinmarketcap.com/"><img src="https://img.shields.io/badge/XRP-XRP-lightgrey?link=https://coinmarketcap.com/"><img src="https://img.shields.io/badge/DOGE-DogeCoin-yellow?link=https://coinmarketcap.com/"><img src="https://img.shields.io/badge/USDT-Tether-yellowgreen?link=https://coinmarketcap.com/"><img src="https://img.shields.io/badge/LTC-LiteCoin-green?link=https://coinmarketcap.com/"><img src="https://img.shields.io/badge/other-other-blue?link=https://coinmarketcap.com/">
 
 
 # Synopsis
