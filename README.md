@@ -32,3 +32,7 @@ CoinMarketCap API are publicly accesible as url endpoints. The API endpoints we 
 These endpoints are updated every 5 minutes and are restricted to no more than 30 requests per minute. Click [here](https://coinmarketcap.com/api/) for respective API usage details.
 
 # Projects
+
+
+# Documentation
+https://coinmarketcap.com/api/documentation/v1/
