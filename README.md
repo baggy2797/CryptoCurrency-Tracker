@@ -159,5 +159,22 @@ Sr.No. |Project Description|
 
 [Click Me for all the projects!](https://github.com/baggy2797/CryptoCurrency-Tracker/tree/main/projects)
 
+## Project Description
+
+### [A Real-Time Price Alert App](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_cryptoalert.py)
+Get notified when cryptocurrencies hit certain prices in USD. You can keep this program running in the background. Your computer will shout things like, 'Litecoin hit $1200!'.
+
+### [A Cryptocurrency Portfolio App](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_cryptocurrencyportfolio.py)
+Track all of your crypto assets with ease. See the total value of all your crypto assets combined along with detailed information about each one. Positive and negative values are color coated green and red.
+
+### [Store Real-Time Information on 1000 Cryptocurrencies in Excel Using Python](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_excelwriter.py)
+Learn to store cryptocurrency information inside of excel workbooks using Python.
+
+### [Predict The Future Values of the Top 100 Cryptocurrencies](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_futurevalues.py)
+Explore what the price of cryptocurrencies will be if the global market cap hits certain levels (such as world stock market levels)
+
+### [A Top 100 Cryptocurrency Ranking App](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_top100Crypto.py)
+Sort by rank, daily percentage change, or daily volume. Positive and negative values are color coated green and red.
+
 # Documentation
 https://coinmarketcap.com/api/documentation/v1/
