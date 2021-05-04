@@ -116,6 +116,37 @@ The venv module provides support for creating lightweight “virtual environment
 
 For creating one Follow the steps here : https://docs.python.org/3/library/venv.html
 
+# Installing the required libraries
+
+After creating the virtual environment, all we need to do is install the required libraries into the folder where the /api and /projects are stored. Move to the directory where the projects and api are stored and then start installing the libraries:
+
+Upgrade Pip first:
+```
+$ python -m pip --version
+pip X.Y.Z from .../site-packages/pip (python X.Y)
+```
+
+pip is just a PyPI package like any other; you could use it to upgrade itself the same way you would upgrade any package:
+```
+pip install --upgrade pip
+```
+On Windows the recommended command is:
+```
+python -m pip install --upgrade pip
+```
+Then start with the libraries:
+```
+pip install os 
+pip install json 
+pip install requests 
+pip install datetime 
+pip install prettytable 
+pip install colorama
+pip install math 
+pip install locale 
+pip install xlsxwriter 
+```
+
 
 # Projects
 Sr.No. |Project Description|
