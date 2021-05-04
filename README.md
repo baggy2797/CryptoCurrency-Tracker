@@ -111,7 +111,15 @@ For creating one Follow the steps here : https://docs.python.org/3/library/venv.
 
 
 # Projects
+Sr.No. |Project Description|
+---|---|
+1|[A Real-Time Price Alert App](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_cryptoalert.py)|
+2|[A Cryptocurrency Portfolio App](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_cryptocurrencyportfolio.py)|
+3|[Store Real-Time Information on 1000 Cryptocurrencies in Excel Using Python](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_excelwriter.py)|
+4|[Predict The Future Values of the Top 100 Cryptocurrencies](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_futurevalues.py)|
+5|[A Top 100 Cryptocurrency Ranking App](https://github.com/baggy2797/CryptoCurrency-Tracker/blob/main/projects/coincap_top100Crypto.py)|
 
+[Click Me for all the projects!](https://github.com/baggy2797/CryptoCurrency-Tracker/tree/main/projects)
 
 # Documentation
 https://coinmarketcap.com/api/documentation/v1/
