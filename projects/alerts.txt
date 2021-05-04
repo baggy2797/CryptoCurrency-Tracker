@@ -1,0 +1,5 @@
+xrp 1
+eth 2340
+bnb 540
+usdt 1
+doge 0.30
