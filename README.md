@@ -5,7 +5,7 @@
 ```
 5 real world applications, by using The 🐍Python 3.8.2✅ and the 💰CoinMarketCap.com API✅
 
-📢📢📢 WHAT YOU CAN TO LEARN 📢📢📢
+📢📢📢 WHAT TO LEARN 📢📢📢
 © To use Python for cryptorurrencys. 🐍💯 + 💰💯©
 📢 I use the following Python modules... 👨‍💻👨‍🎓
 🔵 os ✅
