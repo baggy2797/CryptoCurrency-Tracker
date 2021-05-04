@@ -27,6 +27,13 @@
 This repository contains the files and codes upon following udemy course [Python and Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/coinmarketcap/).
 CoinMarketCap API endpoints are used to access live cryptocurrency data for creating 5 simple cryptocurrency applications that running in CLI fashion.
 
+# Why learn the CoinMarketCap API?
+
+- It contains most up-to-date cryptocurrency information.
+- Using the API is a breeze once you learn these tools.
+- Many global currencies such as GBP and JPY are supported and using them is shown in this course.
+- The CoinMarketCap API v2 is an improvement upon an API which is already great.
+
 # Crypto API
 CoinMarketCap API are publicly accesible as url endpoints. The API endpoints we used are recently released as v2 which are:
 1. /listings/
