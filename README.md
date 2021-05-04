@@ -31,7 +31,7 @@ CoinMarketCap API endpoints are used to access live cryptocurrency data for crea
 
 - It contains most up-to-date cryptocurrency information.
 - Using the API is a breeze once you learn these tools.
-- Many global currencies such as GBP and JPY are supported and using them is shown in this course.
+- Many global currencies such as GBP and JPY are supported and used here.
 - The CoinMarketCap API v2 is an improvement upon an API which is already great.
 
 # Crypto API
