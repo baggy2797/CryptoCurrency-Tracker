@@ -12,7 +12,7 @@ ticker_url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/lates
 #from the API documentation
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': '914cdba8-1a06-439a-8fd1-071d02e187f5',
+    'X-CMC_PRO_API_KEY': 'YOUR-API-KEY-HERE',
 }
 
 
