@@ -1,5 +1,14 @@
 # CryptoCurrency-Tracker
 
+<h1 align="center">Welcome to CryptoTracker 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/bhaditya" target="_blank">
+    <img alt="Twitter: bhaditya" src="https://img.shields.io/twitter/follow/bhaditya.svg?style=social" />
+  </a>
+</p>
+
+
 <img align ="center" src ="https://user-images.githubusercontent.com/26450952/116924701-3bfb6d00-ac26-11eb-91ed-e4a40b0644a8.gif" >
 
 ```
@@ -178,3 +187,18 @@ Sort by rank, daily percentage change, or daily volume. Positive and negative va
 
 # Documentation
 https://coinmarketcap.com/api/documentation/v1/
+
+## Author
+
+👤 **Aditya Nitin Bhagwat**
+
+* Website: baggy2797.github.io
+* Twitter: [@bhaditya](https://twitter.com/bhaditya)
+* Github: [@baggy2797](https://github.com/baggy2797)
+* LinkedIn: [@adibhagwat](https://linkedin.com/in/adibhagwat)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
